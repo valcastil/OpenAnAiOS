@@ -31,14 +31,13 @@ const About = () => {
 		 <div className="md:col-span-8">
 			<h2 className="badge">We Accept</h2>
 			<h2>
-			 All types of Automation workflows
-				from muddle to garnish
+			 All types of Automation workflows <br /> from muddle to garnish
 			</h2>
 		 </div>
 		 
 		 <div className="sub-content">
 			<p>
-			 Every cocktail we serve is a reflection of our obsession with detail — from the first muddle to the final garnish. That care is what turns a simple drink into something truly memorable.
+			 Every project we serve is a reflection of our obsession with detail — from the first muddle to the final garnish. That care is what turns a simple ideas into something truly remarkable.
 			</p>
 			
 			<div>
@@ -46,7 +45,7 @@ const About = () => {
 				<span>4.5</span>/5
 			 </p>
 			 <p className="text-sm text-white-100">
-				More than +12000 customers
+				Customer Satisfaction Guarantee
 			 </p>
 			</div>
 		 </div>
