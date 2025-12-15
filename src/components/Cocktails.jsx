@@ -29,7 +29,7 @@ const Cocktails = () => {
 	 
 	 <div className="list">
 		<div className="popular">
-		 <h2>Ai & Apps Cocktails:</h2>
+		 <h2>Ai and Apps Cocktails:</h2>
 		 
 		 <ul>
 			{cocktailLists.map(({ name, country, detail, price }) => (
@@ -38,7 +38,7 @@ const Cocktails = () => {
 				 <h3>{name}</h3>
 				 <p>{country} | {detail}</p>
 				</div>
-				<span>- {price}</span>
+				<span>{price}</span>
 			 </li>
 			))}
 		 </ul>
@@ -54,7 +54,7 @@ const Cocktails = () => {
 				 <h3>{name}</h3>
 				 <p>{country} | {detail}</p>
 				</div>
-				<span>- {price}</span>
+				<span>{price}</span>
 			 </li>
 			))}
 		 </ul>

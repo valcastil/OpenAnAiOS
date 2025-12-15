@@ -169,7 +169,7 @@ body {
                     @apply flex justify-between items-start;
 
                     h3 {
-                        @apply font-modern-negra 2xl:text-3xl text-xl text-yellow;
+                        @apply font-sans 2xl:text-3xl text-xl text-yellow;
                     }
 
                     p {

@@ -1,7 +1,7 @@
 const navLinks = [
  {
 	id: "cocktails",
-	title: "Apps & Ai Cocktails",
+	title: "Apps and Ai Cocktails",
  },
  {
 	id: "about",
@@ -19,55 +19,55 @@ const navLinks = [
 
 const cocktailLists = [
  {
-	name: "Chapel Hill Shiraz",
-	country: "AU",
-	detail: "Battle",
-	price: "$10",
+	name: "iOS and Android Apps",
+	country: "Development",
+	detail: "With Ai",
+	price: "",
  },
  {
-	name: "Caten Malbee",
-	country: "AU",
-	detail: "Battle",
-	price: "$49",
+	name: "Ai Automation",
+	country: "Office",
+	detail: "Solutions",
+	price: "",
  },
  {
-	name: "Rhino Pale Ale",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	name: "n8n Workflows",
+	country: "Automation",
+	detail: "Ai Assisted",
+	price: "",
  },
  {
-	name: "Irish Guinness",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+	name: "Zapier or Make.com",
+	country: "Integrations",
+	detail: "Provider",
+	price: "",
  },
 ];
 
 const mockTailLists = [
  {
-	name: "Tropical Bloom",
-	country: "US",
-	detail: "Battle",
-	price: "$10",
+	name: "WhatsApp Ai Assistant",
+	country: "n8n",
+	detail: "OpenAi",
+	price: "",
  },
  {
-	name: "Passionfruit Mint",
-	country: "US",
-	detail: "Battle",
-	price: "$49",
+	name: "Office Documentation RAG",
+	country: "Pinecone",
+	detail: "OpenAi",
+	price: "",
  },
  {
-	name: "Citrus Glow",
-	country: "CA",
-	detail: "750 ml",
-	price: "$20",
+	name: "Personalization",
+	country: "Ai Agent",
+	detail: "Self-help",
+	price: "",
  },
  {
-	name: "Lavender Fizz",
-	country: "IE",
-	detail: "600 ml",
-	price: "$29",
+	name: "Web Apps",
+	country: "Static Sites",
+	detail: "Funnels",
+	price: "",
  },
 ];
 

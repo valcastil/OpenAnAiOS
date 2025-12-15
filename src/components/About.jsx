@@ -29,9 +29,9 @@ const About = () => {
 	 <div className="mb-16 md:px-0 px-5">
 		<div className="content">
 		 <div className="md:col-span-8">
-			<p className="badge">Best Cocktails</p>
+			<h2 className="badge">We Accept</h2>
 			<h2>
-			 Where every detail matters <span className="text-white">-</span>
+			 All types of Automation workflows
 				from muddle to garnish
 			</h2>
 		 </div>

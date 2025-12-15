@@ -93,17 +93,17 @@ const Hero = () => {
 			<div className="space-y-5 hidden md:block">
 			 <p>Cool. Crisp. Classic.</p>
 			 <p className="subtitle">
-				Sip the Spirit of iOS and <br /> Android Apps and Ai
+				Sip the Spirit of Ai in Android and iOS Apps
 			 </p>
 			</div>
 			
 			<div className="view-cocktails">
 			 <p className="subtitle">
-				Every Apps & Ai Cocktail on our menu is a blend of premium Ai Automation,
-				iOS & Android Apps, and timeless software stacks — designed to delight your
-				senses.
+				Every Apps and Ai Cocktail on our menu is a blend of premium Ai Automation,
+				iOS and Android Apps, and timeless software stacks — 
+				designed to delight your senses.
 			 </p>
-			 <a href="#cocktails">View Apps & Ai Cocktails</a>
+			 <a href="#cocktails">View Apps and Ai Cocktails</a>
 			</div>
 		 </div>
 		</div>
