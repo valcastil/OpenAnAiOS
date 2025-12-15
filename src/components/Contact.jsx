@@ -1,4 +1,4 @@
-import { openingHours, socials } from '../../constants/index.js'
+import { openingHours, socials, storeInfo } from '../../constants/index.js'
 import { useGSAP } from '@gsap/react'
 import { SplitText} from 'gsap/all';
 import gsap from 'gsap';
@@ -35,17 +35,17 @@ const Contact = () => {
 	 <img src="/images/footer-left-leaf.png" alt="leaf-left" id="f-left-leaf" />
 	 
 	 <div className="content">
-		<h2>Where to Find Us</h2>
+		<h2>{storeInfo.heading}</h2>
 		
 		<div>
 		 <h3>Visit Our Bar</h3>
-		 <p>456, Raq Blvd. #404, Los Angeles, CA 90210</p>
+		 <p>{storeInfo.address}</p>
 		</div>
 		
 		<div>
 		 <h3>Contact Us</h3>
-		 <p>(555) 987-6543</p>
-		 <p>hello@jsmcocktail.com</p>
+		 <p>{storeInfo.contact.phone}</p>
+		 <p>{storeInfo.contact.email}</p>
 		</div>
 		
 		<div>

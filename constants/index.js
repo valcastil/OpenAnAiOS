@@ -8,7 +8,7 @@ const navLinks = [
 	title: "About Us",
  },
  {
-	id: "work",
+	id: "art",
 	title: "The Art",
  },
  {
@@ -37,7 +37,7 @@ const cocktailLists = [
 	price: "",
  },
  {
-	name: "Zapier or Make.com",
+	name: "GHL, Zapier or Make.com",
 	country: "Integrations",
 	detail: "Provider",
 	price: "",
@@ -94,18 +94,18 @@ const featureLists = [
 ];
 
 const goodLists = [
- "Handpicked ingredients",
- "Signature techniques",
- "Bartending artistry in action",
- "Freshly muddled flavors",
+ "Handpicked Nodes",
+ "Signature Workflows",
+ "Automation artistry in action",
+ "Freshly selected models",
 ];
 
 const storeInfo = {
  heading: "Where to Find Us",
- address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+ address: "Dubai, UAE",
  contact: {
-	phone: "(555) 987-6543",
-	email: "hello@jsmcocktail.com",
+	phone: "+971 52 608 1614",
+	email: "support@openanaios.com",
  },
 };
 
