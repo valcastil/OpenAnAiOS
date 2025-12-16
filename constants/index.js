@@ -87,10 +87,10 @@ const profileLists = [
 ];
 
 const featureLists = [
- "Perfectly balanced blends",
- "Garnished to perfection",
- "Ice-cold every time",
- "Expertly shaken & stirred",
+ "Perfectly balanced Ai Agents",
+ "Trained to perfection",
+ "Available every time",
+ "Expertly prompted & verified",
 ];
 
 const goodLists = [
@@ -137,11 +137,11 @@ const socials = [
 const allCocktails = [
  {
 	id: 1,
-	name: "Classic Mojito",
+	name: "Classic Models",
 	image: "/images/drink1.png",
-	title: "Simple Ingredients, Bold Flavor",
+	title: "Simple Workflows, Bold Ideas",
 	description:
-	 "Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+	 "Made with confidence, creativity, and passion.",
  },
  {
 	id: 2,
