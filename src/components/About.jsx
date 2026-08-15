@@ -31,8 +31,7 @@ const About = () => {
 		 <div className="md:col-span-8">
 			<h2 className="badge">We Accept</h2>
 			<h2>
-			 All types of Automation workflows <br /> from muddle to garnish
-			</h2>
+			 All types of Automation workflows <br /> from simple to complex </h2>
 		 </div>
 		 
 		 <div className="sub-content">

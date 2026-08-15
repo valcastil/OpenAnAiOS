@@ -137,35 +137,35 @@ const socials = [
 const allCocktails = [
 	{
 		id: 1,
-		name: "Classic Models",
+		name: "AI Automation",
 		image: "/images/drink1.png",
-		title: "Simple Workflows, Bold Ideas",
+		title: "Automate your Office Documentation with AI",
 		description:
-			"Made with confidence, creativity, and passion.",
+			"OpenAi with n8n",
 	},
 	{
 		id: 2,
-		name: "Raspberry Mojito",
+		name: "Android Apps",
 		image: "/images/drink2.png",
-		title: "A Zesty Classic That Never Fails",
+		title: "We develop Android Apps with AI",
 		description:
-			"The Margarita is a classic that balances tangy lime, smooth tequila, and a touch of sweetness. Shaken, frozen, or on the rocks—it’s always crisp & refreshing.",
+			"Android Native Apps with the latest trends in mobile technology",
 	},
 	{
 		id: 3,
-		name: "Violet Breeze",
+		name: "IOS Apps",
 		image: "/images/drink3.png",
-		title: "Simple Ingredients, Bold Flavor",
+		title: "We develop IOS Apps with AI",
 		description:
-			"Made with tequila, lime juice, and orange liqueur, the Margarita is easy to make and full of character. Add a salted rim for the perfect drink on summer nights.",
+			"iOS Native Apps with the latest trends in mobile technology",
 	},
 	{
 		id: 4,
-		name: "Curacao Mojito",
+		name: "Web Apps",
 		image: "/images/drink4.png",
-		title: "Crafted With Care, Poured With Love",
+		title: "We develop Web Apps with AI",
 		description:
-			"Each cocktail is made with fresh ingredients and a passion for perfecting every pour, whether you're celebrating or simply relaxing.",
+			"Web Apps with the latest trends in web technology",
 	},
 ];
 
