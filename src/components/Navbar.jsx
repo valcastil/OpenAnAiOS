@@ -23,8 +23,8 @@ const Navbar = () => {
  return (
 	<nav>
 	 <div>
-		<a href="#hero" className="flex items-center gap-2">
-		 <img src="/images/logo.png" alt="logo" />
+		<a href="#hero" className="flex items-center gap-3">
+		 <img src="/images/nano-banana-logo.jpg" alt="OpenAnAiOS logo" className="w-16 h-16 md:w-20 md:h-20 rounded-full object-cover" />
 		 <p>OpenAnAiOS</p>
 		</a>
 		
